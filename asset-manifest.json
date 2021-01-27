@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/mangax/static/css/main.1d28ef27.chunk.css",
-    "main.js": "/mangax/static/js/main.51cd67f2.chunk.js",
-    "main.js.map": "/mangax/static/js/main.51cd67f2.chunk.js.map",
+    "main.css": "/mangax/static/css/main.878ba7a2.chunk.css",
+    "main.js": "/mangax/static/js/main.15cb633f.chunk.js",
+    "main.js.map": "/mangax/static/js/main.15cb633f.chunk.js.map",
     "runtime-main.js": "/mangax/static/js/runtime-main.1ea1af9e.js",
     "runtime-main.js.map": "/mangax/static/js/runtime-main.1ea1af9e.js.map",
-    "static/js/2.70749967.chunk.js": "/mangax/static/js/2.70749967.chunk.js",
-    "static/js/2.70749967.chunk.js.map": "/mangax/static/js/2.70749967.chunk.js.map",
+    "static/js/2.4f4432fb.chunk.js": "/mangax/static/js/2.4f4432fb.chunk.js",
+    "static/js/2.4f4432fb.chunk.js.map": "/mangax/static/js/2.4f4432fb.chunk.js.map",
     "index.html": "/mangax/index.html",
-    "static/css/main.1d28ef27.chunk.css.map": "/mangax/static/css/main.1d28ef27.chunk.css.map",
-    "static/js/2.70749967.chunk.js.LICENSE.txt": "/mangax/static/js/2.70749967.chunk.js.LICENSE.txt"
+    "static/css/main.878ba7a2.chunk.css.map": "/mangax/static/css/main.878ba7a2.chunk.css.map",
+    "static/js/2.4f4432fb.chunk.js.LICENSE.txt": "/mangax/static/js/2.4f4432fb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1ea1af9e.js",
-    "static/js/2.70749967.chunk.js",
-    "static/css/main.1d28ef27.chunk.css",
-    "static/js/main.51cd67f2.chunk.js"
+    "static/js/2.4f4432fb.chunk.js",
+    "static/css/main.878ba7a2.chunk.css",
+    "static/js/main.15cb633f.chunk.js"
   ]
 }
