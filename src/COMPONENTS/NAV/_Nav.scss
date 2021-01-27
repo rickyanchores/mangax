@@ -1,0 +1,21 @@
+nav{
+    background: #333;
+    color: whitesmoke;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    .logo{
+        font-size: 1.5em;
+    }
+    .nav-links{
+        display: flex;
+        list-style: none;
+        li{
+            padding: 1em;
+            a{
+                color: whitesmoke;
+                text-decoration: none;
+            }
+        }
+    }
+}
